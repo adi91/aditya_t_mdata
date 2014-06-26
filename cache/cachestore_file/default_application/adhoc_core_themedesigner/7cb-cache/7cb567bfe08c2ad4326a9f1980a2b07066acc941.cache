@@ -1,0 +1,112 @@
+a:2:{s:4:"data";s:3117:"/** Path: theme  custom.' **/
+/* Custom CSS
+-------------------------*/
+.yui3-skin-sam .yui3-panel .yui3-button{
+    margin: 0.3em 0.6em;
+}
+.yui3-skin-sam .yui3-panel .yui3-panel-content .yui3-widget-bd{
+    text-align: center;
+    padding: 1.5em 0 1.8em;
+}
+.yui3-skin-sam .yui3-panel .yui3-panel-content .yui3-widget-ft{
+    border-radius: 0 0 3px 3px;
+    background-color: #F5F4F1;
+    border-top: solid 1px #EAE6DB;
+}
+.yui3-skin-sam .yui3-panel .yui3-panel-content {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #A9A9A9;
+    box-shadow: 0 0 15px rgba(0,0,0,0.4);
+    border-radius: 3px;
+    text-align: center;
+}
+
+.yui3-panel .yui3-widget-bd .message{
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 11px 0 14px 50px;
+} 
+.yui3-panel .yui3-widget-bd .modal-none{
+    background-image: none;
+    padding-left: 0;    
+    width: 82%;
+    text-align: center;
+} 
+.yui3-panel .yui3-widget-bd .modal-bubble{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_bubble);
+} 
+.yui3-panel .yui3-widget-bd .modal-error{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_error);
+}
+.yui3-panel .yui3-widget-bd .modal-info{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_information);
+}
+.yui3-panel .yui3-widget-bd .modal-question{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_question);
+}
+.yui3-panel .yui3-widget-bd .modal-warn{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_warn);
+}
+.yui3-panel .yui3-widget-bd .modal-success{
+    background-repeat: no-repeat;
+    background-image: url(/moodle27/theme/image.php?theme=talentain&component=theme&image=modal%2Ficon_success);
+}
+
+
+a.logo {
+    background: url(//localhost/moodle27/pluginfile.php/1/theme_talentain/logo/-1/logo-talentain.png) no-repeat 0 0;
+    display: block;
+    float: left;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.dir-rtl a.logo {
+    background: url(//localhost/moodle27/pluginfile.php/1/theme_talentain/logo/-1/logo-talentain.png) no-repeat 100% 0;
+    display: block;
+    float: right;
+}
+
+/* Custom CSS Settings
+-------------------------*/
+
+
+body {
+    padding-top: 0;
+}
+#page-header {padding-top: 35px;}
+a.logo {width: 20%;height: 90px;}
+
+.nav > li > a {
+    color: #777777;
+    float: none;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+.nav > li {
+    float: left;
+}
+#add_student_filter lable{
+    display: inline !important;
+}
+#class-div {
+    background: linear-gradient(to bottom, #44cfeb 0%, #009fbf 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+    height: 27px;
+    padding: 4px 0 0 13px;
+    text-transform: capitalize;
+}
+
+";s:7:"created";i:1403562205;}

@@ -1,0 +1,1 @@
+SESSION|O:8:"stdClass":4:{s:4:"lang";s:2:"en";s:8:"wantsurl";s:46:"http://localhost/moodle27/course/view.php?id=2";s:7:"fromurl";s:58:"http://localhost/moodle27/course/editsection.php?id=6&sr=0";s:13:"loginerrormsg";s:48:"Your session has timed out.  Please login again.";}USER|O:8:"stdClass":2:{s:2:"id";i:0;s:10:"mnethostid";s:1:"1";}
